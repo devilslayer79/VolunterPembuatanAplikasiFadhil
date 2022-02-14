@@ -7,4 +7,3 @@ Repository ini digunakan untuk sayembara pencarian volunter aplikasinya fadhil. 
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
-* Jasmine, [Github](https://github.com/Mineechi).
